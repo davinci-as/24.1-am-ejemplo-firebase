@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'ar.edu.davinci.ejemplofirebase'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "ar.edu.davinci.ejemplofirebase"
